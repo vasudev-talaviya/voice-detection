@@ -3,8 +3,7 @@ venv/
 *.pyc
 *.pyo
 
-# Environment variables — never commit credentials
-.env
+
 
 # HuggingFace local model weights
 config.json
