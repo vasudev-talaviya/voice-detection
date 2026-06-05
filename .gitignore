@@ -1,0 +1,19 @@
+__pycache__/
+venv/
+*.pyc
+*.pyo
+
+# Environment variables — never commit credentials
+.env
+
+# HuggingFace local model weights
+config.json
+model.safetensors
+preprocessor_config.json
+
+# Trained model checkpoints
+*.pth
+*.pt
+
+# IDE
+.vscode/

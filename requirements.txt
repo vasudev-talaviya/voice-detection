@@ -1,0 +1,9 @@
+torch
+torchaudio
+transformers
+librosa
+soundfile
+pymongo
+python-dotenv
+pydantic
+scikit-learn
